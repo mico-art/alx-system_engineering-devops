@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "SyslogFacility AUTHPRIV" /etc/ssh/sshd_config
